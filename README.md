@@ -35,7 +35,27 @@ Tugas Praktikum
 8. Tampilkan gaji terbesar!
 ![pc8](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/2c712590-cd26-48b5-a533-16c7071f56ef)
 
+```
+1. Tampilkan jumlah hewan yang dimiliki setiap owner.
+2. Tampilkan jumlah hewan berdasarkan spesies
+3. Tampilkan jumlah hewan berdasarkan jenis kelamin
+4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
+5. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) 
+dan jenis kelamin
+6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui
+saja
+```
+1. Tampilkan jumlah hewan yang dimiliki setiap owner.
 
+3. Tampilkan jumlah hewan berdasarkan spesies
+
+5. Tampilkan jumlah hewan berdasarkan jenis kelamin
+
+7. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
+
+9. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
+
+6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
 
 
 
