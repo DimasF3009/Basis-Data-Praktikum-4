@@ -64,7 +64,7 @@ saja
 ![pct6](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/df9cbb9e-d3bc-48f5-a1b7-bbee582d082b)
 
 
-Kesimpulan
+# Kesimpulan
 Query filter memungkinkan kita untuk mencari atau memfilter data lebih mudah dan lebih cepat, dengan catatan memberikan kriteria khusus yang cocok dengan database.
 
 
