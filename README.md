@@ -58,6 +58,7 @@ saja
 ![pct4](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/a06f4125-cb77-4443-833a-fdf70ecc18f0)
 
 5. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
+![pct5](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/5f39a127-2f6f-4dd0-8a06-08c5012801fc)
 
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
 ![pct6](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/df9cbb9e-d3bc-48f5-a1b7-bbee582d082b)
