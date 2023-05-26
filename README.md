@@ -46,16 +46,21 @@ dan jenis kelamin
 saja
 ```
 1. Tampilkan jumlah hewan yang dimiliki setiap owner.
+![pct1](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/5485ef4f-4d18-40f9-9b62-a150edf55c67)
 
-3. Tampilkan jumlah hewan berdasarkan spesies
+2. Tampilkan jumlah hewan berdasarkan spesies
+![pct2](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/1a838b22-66d7-4c57-9093-76f920172245)
 
-5. Tampilkan jumlah hewan berdasarkan jenis kelamin
+3. Tampilkan jumlah hewan berdasarkan jenis kelamin
+![pct3](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/6719e09d-7448-47b0-903b-7408cf708c94)
 
-7. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
+4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
+![pct4](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/a06f4125-cb77-4443-833a-fdf70ecc18f0)
 
-9. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
+5. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
 
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
+![pct6](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/df9cbb9e-d3bc-48f5-a1b7-bbee582d082b)
 
 
 
